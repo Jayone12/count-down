@@ -4,5 +4,5 @@
 
 ## toDo
 
-[ ] input the date by user
+[ ] input the date by user  
 [ ] input data save in localStorage
